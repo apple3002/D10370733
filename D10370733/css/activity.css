@@ -1,0 +1,127 @@
+body{
+    background-image: url( https://images.plurk.com/3ZcKPWcjtlIdlK6ayrtuqL.jpg  );
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}  
+
+div{
+    text-align: left;
+}
+ul{
+    margin: 0;
+}
+#top {
+    background-color: rgba(0, 0, 0, 0.831);
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    width: 100%;
+    padding: 10px;
+    margin: 0;
+}
+
+
+#main_menu li{
+    display: inline-block;
+}
+
+#main_menu li a{
+    display: block;
+    padding: 15px 20px;
+    font-size: 30px;
+    text-decoration: none;
+    color: rgb(99, 96, 96);
+
+}
+
+#main_menu li a:hover{
+    color: rgb(144, 155, 177);
+}
+.box{
+    text-align: center;
+    width: 980px;
+    height: 900px;
+    background-color: rgba(47, 48, 52, 0.495);
+    margin: 15px auto;
+    padding: 5px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin-top: 150px;
+}
+
+.centent{
+    padding: 20px;
+    border: solid 1px rgb(176, 173, 186);
+    margin-top: 20px;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#div_me{
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    justify-content: start;
+    margin-top: 50px;
+    margin-bottom: 10px
+}
+
+.activity{
+    display: block;
+    height: 400px;
+    width: 680px;
+    background-image: url(https://images.plurk.com/50ojaEAhfauwuqDhSc7ulk.jpg );
+    background-size: cover;
+    margin-left: 115px;
+    border-radius: 15px;
+}
+
+#name{
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    justify-content: start;
+    
+}
+
+.na{
+    margin-left: 360px;
+    color: rgb(184, 196, 174);
+}
+.na2{
+    margin-left: 100px;
+    color: rgb(184, 196, 174);
+}
+
+    
+
+.na5{
+    margin-left: 10px;
+    background-color: rgba(250, 250, 243, 0.351);
+    padding: 10pt;
+    border-radius: 15px;
+}
+
+.margin_all{
+    margin: 40px;
+    width: 50% 50%;
+    background-color: rgba(208, 208, 223, 0.233);
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 5px;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.line-height{
+    text-align:center
+}
+
+
